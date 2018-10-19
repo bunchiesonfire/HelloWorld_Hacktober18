@@ -1,0 +1,7 @@
+//created by github.com/bunchiesonfire
+
+//initialize a toPrint variable to what we want to print out
+toPrint = "Hello, World!";
+
+//print the variable to a console
+print(toPrint);
